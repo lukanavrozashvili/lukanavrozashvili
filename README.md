@@ -1,6 +1,6 @@
 # ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hi there, I'm Luka 
 
-# ✨ Future Full-Stack Enginner
+# ✨ Future Full-Stack Developer
 
 - 🧠 I'm currently learning Python, HTML, CSS, Javascript
 - ✉ You can contact me here lukanavrozas@gmail.com
