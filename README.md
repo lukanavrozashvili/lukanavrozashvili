@@ -4,7 +4,7 @@
 
 - 🧠 I'm currently learning Python, HTML, CSS, Javascript
 - ✉ You can contact me here lukanavrozas@gmail.com
-- 👨‍💻 Grinding Everyday To Success
+- 👨‍💻 Grinding Everyday To Success 📈
 
   <a href="https://www.facebook.com/luka.navrozashvili.1/" target="_blank" rel="noreferrer">
                     <picture>
